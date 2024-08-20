@@ -20,7 +20,7 @@ Die Komponenten werden wie folgt mit dem Arduino verbunden:
 	- I/O an 6
 - LED:
   - GND an 2
- 	- SIG an 3 	
+  - SIG an 3 	
 - Bewegungsmelder:
   Wenn der Sensor nach oben und die Anschlüsse zu einem zeigen, dann… 
 	- linker Anschluss an GND 
